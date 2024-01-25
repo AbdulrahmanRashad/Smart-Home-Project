@@ -1,0 +1,17 @@
+03_MCAL/TIMER1/V1/TIMER1_program.o 03_MCAL/TIMER1/V1/TIMER1_program.o:  \
+ ../03_MCAL/TIMER1/V1/TIMER1_program.c \
+  ../03_MCAL/TIMER1/V1/../../../00_LBS/BIT_MATH.h \
+  ../03_MCAL/TIMER1/V1/../../../00_LBS/STD_TYPES.h \
+  ../03_MCAL/TIMER1/V1/TIMER1_interface.h \
+  ../03_MCAL/TIMER1/V1/TIMER1_private.h \
+  ../03_MCAL/TIMER1/V1/TIMER1_config.h
+
+../03_MCAL/TIMER1/V1/../../../00_LBS/BIT_MATH.h:
+
+../03_MCAL/TIMER1/V1/../../../00_LBS/STD_TYPES.h:
+
+../03_MCAL/TIMER1/V1/TIMER1_interface.h:
+
+../03_MCAL/TIMER1/V1/TIMER1_private.h:
+
+../03_MCAL/TIMER1/V1/TIMER1_config.h:
